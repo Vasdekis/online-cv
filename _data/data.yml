@@ -74,7 +74,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-#experiences:
+experiences:
     #- role: Lead Developer
       #time: 2015 - Present
       #company: Startup Hubs, San Francisco
@@ -112,7 +112,7 @@ education:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-#projects:
+projects:
     #title: Projects
     #intro: >
       You can list your side projects or open source libraries in this
@@ -139,7 +139,7 @@ education:
         #link: "#"
         #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-#publications:
+publications:
     #title: Publications
     #intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
