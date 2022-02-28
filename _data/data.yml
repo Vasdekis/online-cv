@@ -15,7 +15,7 @@ sidebar:
     email: p18vasd@ionio.gr
     phone: 6980000000
     citizenship:
-    website: blog.webjeda.com #do not add http://
+    #website: blog.webjeda.com #do not add http://
     #linkedin: alandoe
     #xing: alandoe
     github: Vasdekis
@@ -26,7 +26,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    #pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: Ελληνικά
