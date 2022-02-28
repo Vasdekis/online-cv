@@ -112,7 +112,7 @@ education:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-projects:
+#projects:
     title: projects
     intro: >
       You can list your side projects or open source libraries in this
