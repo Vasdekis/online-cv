@@ -7,181 +7,77 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Σωτήρης Βασδέκης
-    tagline: Προπτυχιακός Φοιτητής Πληροφορικής
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Κωνσταντίνα Ηλιοπούλου
+    tagline: Προπτυχιακή Φοιτήτρια Πληροφορικής
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: p18vasd@ionio.gr
-    phone: 6980000000
-    citizenship:
-    #website: blog.webjeda.com #do not add http://
-    #linkedin: alandoe
-    #xing: alandoe
-    github: Vasdekis
-    #telegram: # add your nickname without '@' sign
-    #gitlab:
-    #bitbucket:
-    #twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    #pdf: http://www.africau.edu/images/default/sample.pdf
+    email: p18ilio@ionio.gr
+    phone: 6911111111
+    github: Konstantina3
+    
 
     languages:
       - idiom: Ελληνικά
         level: Μητρική
 
       - idiom: Αγγλικά
-        level: Καλό επίπεδο
+        level: Καλό Επίπεδο
+
+      - idiom: Γερμανικά
+        level: Καλό Επίπεδο
 
     interests:
-       title: Eνδιαφέροντα
-    
-      - item: Ποδηλασία
+      - item: Jogging
         link:
 
-      - item: Τρέξιμο
+      - item: Τέννις
         link:
 
-      - item: Μαγειρική
-        link:
-
-      - item: Οδήγηση
+      - item: Ταξίδια
         link:
 
 career-profile:
-    title: ΣΤΟΧΟΣ ΓΙΑ ΤΟ ΜΑΘΗΜΑ " ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ "
-    summary: Με το μάθημα "Τεχνολογία Λογισμικού", θέτω ως στόχο να ενημερωθώ για την ανάπτυξη λογισμικού σε περιβάλλον linux, καθώς δεν έχω αρκετή εμπειρία με αυτό. Επίσης, θέλω να εξοικειωθώ με τη συνεργατικόητα και τις νέες μεθόδους που χρησιμοποιούνται στο μάθημα, αλλά και να ενισχύσω τις προγραμματιστικές μου δυνατότητες.
+    title: ΣΤΟΧΟΣ ΓΙΑ ΤΟ ΜΑΘΗΜΑ ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ
+    summary: |
+      Μέσα από το μάθημα "Τεχνολογία Λογισμικού", στόχος μου είναι να κατανοήσω τον τρόπο οργάνωσης και λειτουργίας ενός συστήματος, καθώς και πως επιτυγχάνεται η διάδραση με αυτό. Να μάθω να συνεργάζομαι, να επιλύω απορίες μου και να υλοποιώ αντίστοιχες εργασίες μέσα απο νέα λογισμικά, όπως το linux. Επιπλέον, θα ήθελα να ενισχύσω/βελτιώσω τις προγραμματιστικές μου γνώσεις, ενώ μέσα από τα εκπαιδευτικά βίντεο, προτίθεμαι να γνωρίσω την ιστορία των υπολογιστικών συστημάτων και πως εν τέλει, γινόταν η διεπαφή τότε.
 education:
     - degree: Πληροφορική
       university: Ιόνιο Πανεπιστήμιο
-      time: 2018 - σήμερα
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      time: 2018 -
+      
     - degree: Απολυτήριο Λυκείου
-      university: Δευτεροβάθμια
-      time: 2013 - 2016
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      university: Δευτεροβάθμια Εκπαίδευση
+      time: 2015 - 2018
+      
 experiences:
-    - role: Lead Developer
-    #  time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-    #  time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-     # time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    - role: "Συμμετοχή σε ερευνητικό έργο - Αρχή Προστασίας Προσωπικών Δεδομένων"
+      time: 2021 - 2022
+      company: Αθήνα
+      
+    - role: "Womentors - Ενδυνάμωση Νέων Γυναικών"
+      time: 2020 - 2021
+      company: Ίδρυμα Λαμπράκη, Αθήνα
+      
+    - role: "Προγραμματισμός Υπολογιστών - Φροντιστηριακά Μαθήματα Python"
+      time: 2019 - 2020
+      company: Ιόνιο Πανεπιστήμιο, Κέρκυρα
 
 skills:
     title: ΠΡΟΓΡΑΜΜΑΤΙΣΤΙΚΕΣ ΙΚΑΝΟΤΗΤΕΣ
 
     toolset:
-      
       - name: C
-        level: 65%
+        level: 70%
 
       - name: C++
-        level: 45%
+        level: 40%
 
       - name: Java
-        level: 20%
+        level: 30%
 
       - name: Python
-        level: 35%
-        
-      - name: HTML & Javascript
         level: 20%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: HTML & Javascript
+        level: 10%
