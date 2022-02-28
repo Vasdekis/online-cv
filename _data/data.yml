@@ -7,14 +7,14 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Κωνσταντίνα Ηλιοπούλου
-    tagline: Προπτυχιακή Φοιτήτρια Πληροφορικής
+    name: Σωτήριος Βασδέκης
+    tagline: Προπτυχιακός Φοιτητής Πληροφορικής
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: p18ilio@ionio.gr
-    phone: 6911111111
-    github: Konstantina3
+    email: p18vasd@ionio.gr
+    phone: 6900000000
+    github: Vasdekis
     
 
     languages:
@@ -24,17 +24,17 @@ sidebar:
       - idiom: Αγγλικά
         level: Καλό Επίπεδο
 
-      - idiom: Γερμανικά
-        level: Καλό Επίπεδο
-
     interests:
+      - item: Ποδηλασία
+        link:
+
       - item: Jogging
         link:
 
-      - item: Τέννις
+      - item: Μαγειρική
         link:
-
-      - item: Ταξίδια
+         
+      - item: Οδήγηση
         link:
 
 career-profile:
