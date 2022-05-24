@@ -42,10 +42,11 @@ career-profile:
     summary: |
      With the course "Software Technology", I aim to learn about software development in a linux environment, as I do not have enough experience with it. I also want to get familiar with the collaboration and the new methods used in the course, but also to strengthen my programming skills.
 education:
-      title: Interests
+      
     - degree: Informatics
       university: Ionian University
       time: 2018 -
+      
     - degree: Certificate of Highschool
       university: Highschool of Trikala
       time: 2013 - 2015
