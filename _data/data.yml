@@ -23,10 +23,16 @@ sidebar:
         level: Lawer
 
     interests:
-      - item: Jogging
+      - item: Cycling
         link:
 
-      - item: Tennis
+      - item: Jogging
+        link:
+        
+      - item: Cooking
+        link:
+        
+      - item: Driving
         link:
 
       - item: Traveling
@@ -42,17 +48,11 @@ education:
       time: 2018 - 
       
     - degree: High School Degree
-      university: High School of Lamia
+      university: High School of Trikala
       time: 2013 - 2016 
       
 experiences:
-    - role: "Womentors"
-      time: 2020 - 2021
-      company: Lampraki Foundation, Athens
-      
-    - role: "Python"
-      time: 2019 - 2020
-      company: Ionian University, Corfu
+   
 
 skills:
     title: PROGRAMMING SKILLS
@@ -64,11 +64,11 @@ skills:
       - name: C++
         level: 45%
 
-      - name: Java
-        level: 20%
-
       - name: Python
         level: 35%
+
+      - name: Java
+        level: 20%
 
       - name: HTML & Javascript
         level: 20%
