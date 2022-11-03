@@ -12,8 +12,8 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: p18ilio@ionio.gr
-    github: Konstantina3
+    email: p18vasd@ionio.gr
+    github: Vasdekis
 
     languages:
       - idiom: Greek
@@ -22,31 +22,32 @@ sidebar:
       - idiom: English
         level: Lawer
 
-      - idiom: German
-        level: B1
-
     interests:
+      - item: Cycling
+        link:
+
       - item: Jogging
         link:
 
-      - item: Tennis
+      - item: Cooking
+        link:
+         
+      - item: Driving
         link:
 
-      - item: Traveling
-        link:
 
 career-profile:
     title: HCI
     summary: |
-      With the course "Human-Computer Communication", I will develop an innovative digital application-service, based on humans and their needs. This Summer I did my internship at a startup company, where we created an innovative project "Tilderist" that automates the legal documents of small enterprises. So my collaboration with the team was inspirational for my personal project.
+                I believe the "Human-Computer Communication" course will be useful for the implementation of my personal project. As I consider that the course teaches us how to act within the graphic environment of the computer, I will understand the actions we can take to achieve the desired result. Specifically, I want to create a video game to achieve this mutual interaction with the user.
 education:
+      title: Interests
     - degree: Informatics
       university: Ionian University
-      time: 2018 - 
-      
-    - degree: High School Degree
-      university: High School of Lamia
-      time: 2015 - 2018 
+      time: 2018 -
+    - degree: Certificate of Highschool
+      university: Highschool of Trikala
+      time: 2013 - 2015
       
 experiences:
     - role: "Womentors"
