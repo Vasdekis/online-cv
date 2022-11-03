@@ -7,7 +7,7 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Konstantina Iliopoulou
+    name: Sotirios Vasdekis
     tagline: Undergraduate Student of Informatics
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -22,41 +22,32 @@ sidebar:
       - idiom: English
         level: Lawer
 
-    interests:
-      - item: Cycling
-        link:
+      - idiom: German
+        level: B1
 
+    interests:
       - item: Jogging
         link:
 
-      - item: Cooking
-        link:
-         
-      - item: Driving
+      - item: Tennis
         link:
 
+      - item: Traveling
+        link:
 
 career-profile:
     title: HCI
     summary: |
-                I believe the "Human-Computer Communication" course will be useful for the implementation of my personal project. As I consider that the course teaches us how to act within the graphic environment of the computer, I will understand the actions we can take to achieve the desired result. Specifically, I want to create a video game to achieve this mutual interaction with the user.
+      With the course "Human-Computer Communication", I will develop an innovative digital application-service, based on humans and their needs. This Summer I did my internship at a startup company, where we created an innovative project "Tilderist" that automates the legal documents of small enterprises. So my collaboration with the team was inspirational for my personal project.
 education:
-      title: Interests
     - degree: Informatics
       university: Ionian University
-      time: 2018 -
-    - degree: Certificate of Highschool
-      university: Highschool of Trikala
-      time: 2013 - 2015
+      time: 2018 - 
       
-experiences:
-    - role: "Womentors"
-      time: 2020 - 2021
-      company: Lampraki Foundation, Athens
+    - degree: High School Degree
+      university: High School of Lamia
+      time: 2015 - 2018 
       
-    - role: "Python"
-      time: 2019 - 2020
-      company: Ionian University, Corfu
 
 skills:
     title: PROGRAMMING SKILLS
