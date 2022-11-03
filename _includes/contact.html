@@ -84,6 +84,12 @@
       <a href="https://facebook.com/{{ sidebar.facebook }}" target="_blank">{{ sidebar.facebook }}</a>
     </li>
     {% endif %}
+    
+    {% if sidebar.youtube %}
+    <li class="youtube"><i class="fab fa-youtube"></i>
+      <a href="https://youtube.com/{{ sidebar.youtube }}" target="_blank">{{ sidebar.youtube }}</a>
+    </li>
+    {% endif %}
 
     {% if sidebar.stack-overflow %}
     <li class="stack-overflow"><i class="fab fa-stack-overflow"></i>
