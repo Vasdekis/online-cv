@@ -48,6 +48,14 @@ education:
       university: High School of Lamia
       time: 2015 - 2018 
       
+experiences:
+    - role: "Womentors"
+      time: 2020 - 2021
+      company: Lampraki Foundation, Athens
+      
+    - role: "Python"
+      time: 2019 - 2020
+      company: Ionian University, Corfu
 
 skills:
     title: PROGRAMMING SKILLS
