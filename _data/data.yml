@@ -22,9 +22,6 @@ sidebar:
       - idiom: English
         level: Lawer
 
-      - idiom: German
-        level: B1
-
     interests:
       - item: Jogging
         link:
@@ -46,7 +43,7 @@ education:
       
     - degree: High School Degree
       university: High School of Lamia
-      time: 2015 - 2018 
+      time: 2013 - 2016 
       
 experiences:
     - role: "Womentors"
@@ -62,17 +59,17 @@ skills:
 
     toolset:
       - name: C
-        level: 70%
+        level: 65%
 
       - name: C++
-        level: 40%
+        level: 45%
 
       - name: Java
-        level: 30%
-
-      - name: Python
         level: 20%
 
+      - name: Python
+        level: 35%
+
       - name: HTML & Javascript
-        level: 10%
+        level: 20%
 
